@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="857881ba-cf6f-4f55-b72c-5e52162d0776" name="Changes" comment="1tag">
-      <change afterPath="$PROJECT_DIR$/1/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/zad1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/zad2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aoc2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aoc2024.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/zad4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/zad3.py" beforeDir="false" afterPath="$PROJECT_DIR$/3/zad3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/zad2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/zad2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,21 +21,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "wikipop"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;wikipop&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="644d53d2-1d93-41da-a4fc-bf6c7ec36e67" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/wikipop/Aoc2024.git",
-    "accountId": "644d53d2-1d93-41da-a4fc-bf6c7ec36e67"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/wikipop/Aoc2024.git&quot;,
+    &quot;accountId&quot;: &quot;644d53d2-1d93-41da-a4fc-bf6c7ec36e67&quot;
   }
-}]]></component>
+}</component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
@@ -53,7 +53,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.zad1.executor": "Run",
+    "Python.zad2.executor": "Run",
     "Python.zad3.executor": "Run",
+    "Python.zad4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -84,12 +86,35 @@
       <option name="presentableId" value="Default" />
       <updated>1733216637853</updated>
       <workItem from="1733216639606" duration="3436000" />
-      <workItem from="1733242770514" duration="4311000" />
+      <workItem from="1733242770514" duration="4381000" />
+      <workItem from="1733247815853" duration="126000" />
+      <workItem from="1733248916647" duration="9448000" />
+      <workItem from="1733297145394" duration="6437000" />
     </task>
+    <task id="LOCAL-00001" summary="1tag">
+      <option name="closed" value="true" />
+      <created>1733247216690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733247216690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1tag" />
@@ -97,7 +122,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Aoc2024$zad1.coverage" NAME="zad1 Coverage Results" MODIFIED="1733246724460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1" />
+    <SUITE FILE_PATH="coverage/Aoc2024$zad4.coverage" NAME="zad4 Coverage Results" MODIFIED="1733303506058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4" />
     <SUITE FILE_PATH="coverage/aoc2024$zad3.coverage" NAME="zad3 Coverage Results" MODIFIED="1733220702761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3" />
     <SUITE FILE_PATH="coverage/Aoc2024$zad3.coverage" NAME="zad3 Coverage Results" MODIFIED="1733244704296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3" />
+    <SUITE FILE_PATH="coverage/Aoc2024$zad2.coverage" NAME="zad2 Coverage Results" MODIFIED="1733303657904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2" />
   </component>
 </project>
